@@ -15,7 +15,7 @@ window.addEventListener('keydown', function(event) {
 
 function call() {
     console.log('Ufo appeared!');
-    document.getElementById("ufo").innerHTML = "<img id='ufo' onclick='explode()' src='https://th.bing.com/th/id/R.87bae0a0608053f83685be73e174d49c?rik=NkcXSKw0noAaKw&riu=http%3a%2f%2fbestanimations.com%2fSci-Fi%2fUFOs%2fufo-flying-saucer-animated-gif-image-11.gif&ehk=qeRswpeRasdsXxDCsMQrzKnXbvF12wJD7TGyaq1OZ14%3d&risl=&pid=ImgRaw&r=0'>";
+    document.getElementById("ufo").innerHTML = "<img id='ufo' onclick='explode()' src='R.gif'>";
 }
 function explode()
 {
@@ -25,7 +25,7 @@ function explode()
 
         noexplode();
     }, 700);  
-    document.getElementById("exp").innerHTML = "<img id='exp' src='https://media.tenor.com/j-ixpElDGOYAAAAi/explode-boom.gif'>";
+    document.getElementById("exp").innerHTML = "<img id='exp' src='explode-boom.gif'>";
     
 }
 function noexplode()
