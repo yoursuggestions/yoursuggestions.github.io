@@ -3,13 +3,20 @@ body
 {
     background: black;
     color: white;
-    font-family: "Kode Mono", monospace;
+    font-family: "Kode Mono", monospace !important;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     font-size: 45px;
     overflow-y: hidden;
     overflow-x: hidden;
+}
+span
+{
+    font-family: "Kode Mono", monospace !important;
+    font-optical-sizing: auto !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
 }
 .title
 {
@@ -33,6 +40,40 @@ body
     width: 4000px;
     margin: 0;
     position: absolute;
+}
+iframe
+{
+    left: 31%;
+    top: 1%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    position: absolute;
+}
+#tipbutton
+{
+    background: rgb(0, 0, 0);
+    border-radius: 15px;
+    left: 11%;
+    top: 5%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    position: absolute;
+    user-select: none;
+    color: white;
+    border-style: solid;
+    border-width: 5px;
+}
+#tikbutton
+{
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    left: 2.5%;
+    top: 5%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    user-select: none;
+    color: white;
+    width: 75px;
 }
 @keyframes ufo
 {

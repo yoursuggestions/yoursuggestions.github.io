@@ -5,8 +5,6 @@ window.addEventListener('keydown', function(event) {
     if (event.code === keyOrder[currentIndex]) {
         currentIndex++;
         if (currentIndex === keyOrder.length) {
-            document.getElementById('mySound').stop();
-            document.getElementById('mySound2').stop();
             call(); // Call the function when all keys are pressed in order
             currentIndex = 0; // Reset the index
         }
@@ -29,7 +27,6 @@ function explode()
         noexplode();
     }, 700);  
     document.getElementById("exp").innerHTML = "<img id='exp' src='explode-boom.gif'>";
-    document.getElementById('mySound').stop();
     document.getElementById('mySound2').play();
 }
 function noexplode()
