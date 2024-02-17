@@ -16,6 +16,7 @@ window.addEventListener('keydown', function(event) {
 function call() {
     console.log('Ufo appeared!');
     document.getElementById("ufo").innerHTML = "<img id='ufo' onclick='explode()' src='R.gif'>";
+    document.getElementById('mySound').play();
 }
 function explode()
 {
@@ -26,7 +27,7 @@ function explode()
         noexplode();
     }, 700);  
     document.getElementById("exp").innerHTML = "<img id='exp' src='explode-boom.gif'>";
-    document.getElementById('mySound').play();
+    document.getElementById('mySound2').play();
 }
 function noexplode()
 {
