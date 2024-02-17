@@ -27,6 +27,7 @@ function explode()
         noexplode();
     }, 700);  
     document.getElementById("exp").innerHTML = "<img id='exp' src='explode-boom.gif'>";
+    document.getElementById('mySound').stop();
     document.getElementById('mySound2').play();
 }
 function noexplode()
