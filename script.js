@@ -5,6 +5,8 @@ window.addEventListener('keydown', function(event) {
     if (event.code === keyOrder[currentIndex]) {
         currentIndex++;
         if (currentIndex === keyOrder.length) {
+            document.getElementById('mySound').stop();
+            document.getElementById('mySound2').stop();
             call(); // Call the function when all keys are pressed in order
             currentIndex = 0; // Reset the index
         }
