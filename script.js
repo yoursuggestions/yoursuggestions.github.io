@@ -6,7 +6,6 @@ window.addEventListener('keydown', function(event) {
         currentIndex++;
         if (currentIndex === keyOrder.length) {
             call(); // Call the function when all keys are pressed in order
-            currentIndex = 0; // Reset the index
         }
     } else {
         currentIndex = 0; // Reset the index if the wrong key is pressed
