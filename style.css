@@ -263,6 +263,14 @@ a
 {
     font-size: 15px;
 }
+#crush
+{
+    left: 25%;
+    top: 95%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    position: absolute;
+}
 @keyframes ufo
 {
     0% {transform: translateX(0px) translateY(0px);}
