@@ -1,4 +1,4 @@
-var availablememes = 30;
+var availablememes = 35;
 var count = 1;
 function library()
 {
@@ -55,7 +55,13 @@ function checkif() {
     'https://shorturl.at/cwHV2',
     'https://shorturl.at/ehuNZ',
     'https://shorturl.at/puzHY',
-    'https://shorturl.at/aHJPY'
+    'https://shorturl.at/aHJPY',
+    'https://shorturl.at/wGMX0',
+    'https://shorturl.at/rVWX7',
+    'https://shorturl.at/stK69',
+    'https://shorturl.at/dz157',
+    'https://shorturl.at/ghKLZ',
+    'https://shorturl.at/oFGJK'
 ];
         document.getElementById("meme").innerHTML = '<video src='+memes[count - 1]+' controls autoplay>';
 }
