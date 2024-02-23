@@ -7,24 +7,116 @@ function crashprepare()
 }
 function crash()
 {
+    console.log("good luck... - penis_crasher")
     for(i=1;i<999999999999999;i++)
     {
         console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        
         for(i=1;i<999999999999999;i++)
         {
-            console.log("penis_crasher");
+                   console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
             for(i=1;i<999999999999999;i++)
             {
-                console.log("penis_crasher");
+                       console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
                 for(i=1;i<999999999999999;i++)
                 {
-                    console.log("penis_crasher");
+                           console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
                     for(i=1;i<999999999999999;i++)
                     {
-                        console.log("penis_crasher");
+             console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
                         for(i=1;i<999999999999999;i++)
                         {
-                            console.log("penis_crasher");
+                                  console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
+        console.log("penis_crasher");
                         }
                     }
                 }
